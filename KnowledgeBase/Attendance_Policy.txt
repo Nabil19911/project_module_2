@@ -1,0 +1,14 @@
+# UNIVERSITY OF EXCELLENCE - ATTENDANCE AND ENGAGEMENT POLICY
+Document ID: POL-ATT-2024
+Last Updated: January 2024
+
+## 1. Minimum Requirements
+Students are required to maintain a minimum attendance of 80% in all scheduled lectures and labs.
+
+## 2. Warning Tiers
+- Tier 1: At 85% attendance, the student receives a 'Soft Warning' email.
+- Tier 2: At 75% attendance, a formal letter is sent to the student and the program lead.
+- Tier 3: Below 70% attendance, the student may be flagged for academic withdrawal.
+
+## 3. Valid Absences
+Absences are considered valid only if supported by a medical note or an approved EC application.
